@@ -1,12 +1,5 @@
 # Key Repeater
-## notes
-```js
-// seconds >= 1
-// key_repeater.exe[ {seconds}]
-```
-## example
+## command
 ```bash
-key_repeater.exe 4
-// or
-key_repeater.exe
+key_repeater.exe [seconds(>=1)]
 ```
